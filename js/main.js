@@ -1,5 +1,5 @@
 /* =========================================================
-   Hybrid Performance - core
+   Hybrid Performance Hub - core
    Header/footer embedded so the site works opened directly
    from file:// in a browser, and on GitHub Pages.
    Paths are base-relative, see the <base> tag in each page's <head>.
@@ -12,7 +12,7 @@
 <header class="site-header">
   <div class="container">
     <nav class="nav" aria-label="Primary">
-      <a class="brand" href="./">Hybrid Performance<span>.</span></a>
+      <a class="brand" href="./">Hybrid Performance Hub<span>.</span></a>
       <button class="nav-toggle" aria-expanded="false" aria-controls="nav-links" aria-label="Toggle menu">
         <span></span><span></span><span></span>
       </button>
@@ -55,7 +55,7 @@
           <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M4 7l8 6 8-6"/></svg>
         </a></li>
       </ul>
-      <span class="footer-meta">&copy; <span data-year></span> Hybrid Performance</span>
+      <span class="footer-meta">&copy; <span data-year></span> Hybrid Performance Hub</span>
     </div>
   </div>
 </footer>`;
